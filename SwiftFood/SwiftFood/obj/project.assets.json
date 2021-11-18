@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
+      "projectUniqueName": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
       "projectName": "SwiftFood",
-      "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
+      "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
       "packagesPath": "C:\\Users\\Alliewya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\obj\\",
+      "outputPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

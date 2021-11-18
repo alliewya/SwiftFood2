@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v11.0": {
+    "MonoAndroid,Version=v10.0": {
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -2135,7 +2135,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v11.0": [
+    "MonoAndroid,Version=v10.0": [
       "SwiftFood >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
       "projectName": "SwiftFood.Android",
-      "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
+      "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
       "packagesPath": "C:\\Users\\Alliewya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood.Android\\obj\\",
+      "outputPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2164,24 +2164,24 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid11.0"
+        "monoandroid10.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid11.0": {
+        "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\SwiftFood.csproj": {
-              "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\SwiftFood.csproj"
+            "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood\\SwiftFood.csproj": {
+              "projectPath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood\\SwiftFood.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "monoandroid11.0": {
+      "monoandroid10.0": {
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",

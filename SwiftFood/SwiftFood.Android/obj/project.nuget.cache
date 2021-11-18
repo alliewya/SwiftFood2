@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oNY8ZprctsMCr7xrllosRdOEoshfZ+p97l7+094LJA+N7ap9qINlBxkmfRGi6VEIxAKNwMC3sCEWttgzj/F0Cw==",
+  "dgSpecHash": "74rxIIZAyRZcK9bcM+e8k2xUIdt/C1pDTbD31EuwVLZTUXJDyfcP8HplZYxWwkM8tlxfPGt6dNd4V5+hr18PIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
+  "projectFilePath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood2\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alliewya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
