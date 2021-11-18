@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Gjx7mOjFnHj41BmtNRugLli+l0AdNwheG46Z1aII9h6AZ1ZqHoog1YnMB6RMJ1bVUCT6zaAixhi3jJpfCrOLvw==",
+  "dgSpecHash": "/8j3zyLMEYia9vBdEWkkOVzg5SbD4Am+2ES8nT5o9vYj1kfWKCkI7qPxJsvXygOFzmGL8uGCVzK6vu7DXcxAaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
+  "projectFilePath": "C:\\Users\\praka\\Documents\\GitHub\\SwiftFood2\\SwiftFood\\SwiftFood\\SwiftFood.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alliewya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Alliewya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Alliewya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\praka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\praka\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
