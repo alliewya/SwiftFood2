@@ -1,0 +1,3 @@
+C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood.Android\obj\Debug\90\build.props
+C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood.Android\obj\Debug\90\adb.props
