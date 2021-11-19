@@ -18,9 +18,13 @@ namespace SwiftFood
         {
             InitializeComponent();
 
+
             GenerateTestRestaurants();
 
-            MainPage = new MainPage();
+
+
+            MainPage = new NavigationPage(new PostCode());
+
             //MainPage = new NavigationPage( new MainPage());
         }
 
