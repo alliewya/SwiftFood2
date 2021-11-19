@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftFood.Android", "SwiftFood\SwiftFood.Android\SwiftFood.Android.csproj", "{41B9DAF0-C167-4F84-B3FB-ED3F67269183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftFood", "SwiftFood\SwiftFood\SwiftFood.csproj", "{B0544DC2-41D1-4414-8D2D-599FF415C268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwiftFood", "SwiftFood\SwiftFood\SwiftFood.csproj", "{B0544DC2-41D1-4414-8D2D-599FF415C268}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
