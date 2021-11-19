@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 using System.ComponentModel;
 using System.Collections.ObjectModel;
+using SQLite;
 
 namespace SwiftFood
 {
-    class OrderItem : Food
+    public class OrderItem : Food
     //A food item present in an order
     {
 
@@ -16,8 +17,10 @@ namespace SwiftFood
 
         public int Qty;
 
+
         //Properties for order history
-        public int OrderItemID; //Unique
+        [PrimaryKey, AutoIncrement]
+        public int OrderItemID { get; set; } //Unique
 
         public int OrderNumber; //Corresponding order - can be blank until saving
 
@@ -49,17 +52,19 @@ namespace SwiftFood
     }
 
 
-    class Order : INotifyPropertyChanged
+    public class Order : INotifyPropertyChanged
     // Contains a list of OrderItems and holds a running total
     {
-
-        public ObservableCollection<OrderItem> OrderItems;
+        //Add ignore for sqlite for collection - cannot be stored
+        [Ignore]
+        public ObservableCollection<OrderItem> OrderItems { get; set; }
 
         public decimal OrderTotal;
 
         public decimal Discount;
 
-        public int OrderID;
+        [PrimaryKey, AutoIncrement]
+        public int OrderID { get; set; }
 
         public string OrderUsername;
 

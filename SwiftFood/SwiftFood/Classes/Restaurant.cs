@@ -9,6 +9,11 @@ namespace SwiftFood
     public class Restaurant : INotifyPropertyChanged
     {
 
+        public Restaurant()
+        {
+            Menu = new ObservableCollection<Food>();
+        }
+
         //Observable collection of food as the menu
         public ObservableCollection<Food> Menu;
 
@@ -52,13 +57,13 @@ namespace SwiftFood
             }
         }
 
-        public string RestImageSource;
+        public string RestImageSource { get; set; }
 
-        public string RestDescription;
+        public string RestDescription { get; set; }
 
-        public string RestAddress;
+        public string RestAddress { get; set; }
 
-        public string RestOpeningHours;
+        public string RestOpeningHours { get; set; }
 
 
         public event PropertyChangedEventHandler PropertyChanged;
