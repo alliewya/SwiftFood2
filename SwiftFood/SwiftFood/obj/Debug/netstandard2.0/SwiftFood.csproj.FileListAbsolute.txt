@@ -32,3 +32,4 @@ C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstan
 C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\ref\SwiftFood.dll
 C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.pdb
 C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\praka\Documents\GitHub\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\Checkout.xaml.g.cs
