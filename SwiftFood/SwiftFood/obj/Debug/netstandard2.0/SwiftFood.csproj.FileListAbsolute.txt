@@ -15,3 +15,23 @@ C:\Users\Alliewya\source\repos\SwiftFood\SwiftFood\SwiftFood\obj\Debug\netstanda
 C:\Users\Alliewya\source\repos\SwiftFood\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.pdb
 C:\Users\Alliewya\source\repos\SwiftFood\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\Browse.xaml.g.cs
 C:\Users\Alliewya\source\repos\SwiftFood\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\FlyoutMenu.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\bin\Debug\netstandard2.0\SwiftFood.deps.json
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\bin\Debug\netstandard2.0\SwiftFood.dll
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\bin\Debug\netstandard2.0\ref\SwiftFood.dll
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\bin\Debug\netstandard2.0\SwiftFood.pdb
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\Browse.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\FlyoutMenu.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\PostCode.xaml.g.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.AssemblyInfoInputs.cache
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.AssemblyInfo.cs
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.csproj.CoreCompileInputs.cache
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.dll
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\ref\SwiftFood.dll
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.pdb
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\SwiftFood.csproj.AssemblyReference.cache
+C:\Mobile Apps\Assignment2\SwiftFood2\SwiftFood\SwiftFood\obj\Debug\netstandard2.0\OrderHistory.xaml.g.cs

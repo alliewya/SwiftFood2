@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oNY8ZprctsMCr7xrllosRdOEoshfZ+p97l7+094LJA+N7ap9qINlBxkmfRGi6VEIxAKNwMC3sCEWttgzj/F0Cw==",
+  "dgSpecHash": "yfjs5+XF/wJYRzmp/S1rJoJTNodN5dTRaVUV5xoDQm2zoBck/T25PWnBCOs7ptnW8mi5pqARNrqKQQKBhkk5dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alliewya\\source\\repos\\SwiftFood\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
+  "projectFilePath": "C:\\Mobile Apps\\Assignment2\\SwiftFood2\\SwiftFood\\SwiftFood.Android\\SwiftFood.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alliewya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zacwo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
