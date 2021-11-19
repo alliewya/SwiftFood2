@@ -20,7 +20,7 @@
                     </FormattedString>
                 </Label.FormattedText>
             </Label>-->
-            <CollectionView x:Name="RestaurantCollection" SelectionMode="Single" ItemsLayout="VerticalGrid, 1" SelectionChanged="OnCollectionViewSelectionChanged">
+            <CollectionView x:Name="RestaurantCollection" SelectionMode="Single" ItemsLayout="VerticalGrid, 1" >
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <StackLayout  Padding="10">
